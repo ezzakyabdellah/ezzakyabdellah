@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Abdellah, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Casablanca, Morocco.</b>
+<p>I'm Abdellah, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Casablanca, Morocco.</b>
 
 <h3>Things I code with</h3>
 <p>
@@ -35,7 +35,7 @@
 
 <h3>Overview:</h3>
 <p>
-Hello there! I'm a seasoned Software Engineer with a passion for crafting robust and innovative solutions. With a strong foundation in both LAMP (Linux, Apache, MySQL, PHP) and MERN (MongoDB, Express.js, React, Node.js) stacks, I bring a wealth of technical expertise to the table. My proficiency extends beyond these core technologies, encompassing a wide array of skills including React, Angular, SQLServer, MySQL, PostgreSQL, and various DevOps tools such as Git, Docker, Vagrant, AWS, Azure, and Versal.
+I'm a seasoned Software Engineer with a passion for crafting robust and innovative solutions. With a strong foundation in both LAMP (Linux, Apache, MySQL, PHP) and MERN (MongoDB, Express.js, React, Node.js) stacks, I bring a wealth of technical expertise to the table. My proficiency extends beyond these core technologies, encompassing a wide array of skills including React, Angular, SQLServer, MySQL, PostgreSQL, and various DevOps tools such as Git, Docker, Vagrant, AWS, Azure, and Versal.
 </p>
 <h3>
 🛠️ Technical Proficiencies:
